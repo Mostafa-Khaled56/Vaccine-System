@@ -1,0 +1,15 @@
+﻿  admin.cpp
+C:\Users\Andy\Downloads\Studies\Vaccine system\Vaccine system\admin.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\Vaccine system\Vaccine system\admin.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\Vaccine system\Vaccine system\admin.cpp(107,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\Vaccine system\Vaccine system\admin.cpp(145,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\Andy\Downloads\Studies\Vaccine system\Vaccine system\main.cpp(39,12): warning C4101: 'id': unreferenced local variable
+C:\Users\Andy\Downloads\Studies\Vaccine system\Vaccine system\main.cpp(36,6): warning C4101: 'temp': unreferenced local variable
+C:\Users\Andy\Downloads\Studies\Vaccine system\Vaccine system\main.cpp(56,8): warning C4101: 'sh': unreferenced local variable
+  user.cpp
+C:\Users\Andy\Downloads\Studies\Vaccine system\Vaccine system\user.cpp(70,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\Vaccine system\Vaccine system\user.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\Vaccine system\Vaccine system\user.cpp(184,6): warning C4101: 'temp': unreferenced local variable
+  Generating Code...
+  Vaccine system.vcxproj -> C:\Users\Andy\Downloads\Studies\Vaccine system\Debug\Vaccine system.exe
